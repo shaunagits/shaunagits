@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shaunagits
+- 🌱 I'm interested in React and theme creation
+- 📫 Let's collab
