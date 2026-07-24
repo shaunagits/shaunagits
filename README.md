@@ -7,7 +7,7 @@ Most of my production work is client code, so it lives in private repos. What I'
 **Gradient** *(private)*
 An AI-powered applicant tracking system for an independent tech recruiting firm, in daily production use. Candidate sourcing, job-fit scoring, automated triage, and AI-drafted outreach, with a 6-phase workflow separating no-cost tasks from paid AI operations. React, TypeScript, Supabase, Vercel, OpenAI + Anthropic APIs.
 
-**Hanai** *(private)*
+**Hānai** *(private)*
 An end-to-end system for a 501(c)(3) animal rescue: guided intake, placement and foster workflows, medical records, dashboards, real-time messaging. Migrated 956 animal records and 6,161 medical records from legacy shelter software.
 
 **Kahu** *(private)*
