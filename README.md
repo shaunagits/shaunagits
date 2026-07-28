@@ -20,8 +20,7 @@ the proof.
 
 ## Also on the bench
 
-Static Astro rebuilds replacing aging WordPress installs, a personal market screener that runs
-on a nightly cron and writes its own brief, and the occasional map.
+Static Astro rebuilds replacing aging WordPress installs, and the occasional map.
 
 ---
 
