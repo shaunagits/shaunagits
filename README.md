@@ -41,7 +41,7 @@ nonprofits, end to end: discovery, design, code, deployment, support.
       <a href="https://games.shauna.digital/saltwhisker/"><img src="images/saltwhisker.jpg" alt="Saltwhisker"></a>
       <h3><a href="https://games.shauna.digital/saltwhisker/">Saltwhisker</a></h3>
       A painted fishing game. Walter, a tuxedo cat in a yellow sou'wester, fishes off a pier and logs every catch in his Tidebook.<br>
-      <sub>Canvas · vanilla JS</sub>
+      <sub>Canvas · vanilla JS · <a href="https://github.com/shaunagits/saltwhisker">repo</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://games.shauna.digital/13-beads/"><img src="images/13beads.jpg" alt="13 Beads"></a>
