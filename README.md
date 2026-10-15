@@ -55,7 +55,7 @@ nonprofits, end to end: discovery, design, code, deployment, support.
       <a href="https://games.shauna.digital/homebeforedark/"><img src="images/homebeforedark.jpg" alt="Home Before Dark"></a>
       <h3><a href="https://games.shauna.digital/homebeforedark/">Home Before Dark</a></h3>
       Ride home at night. When the streetlights flicker, something is coming. Swerve.<br>
-      <sub>Canvas · pixel art · vanilla JS</sub>
+      <sub>Canvas · pixel art · vanilla JS · <a href="https://github.com/shaunagits/homebeforedark">repo</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://games.shauna.digital"><img src="images/games.jpg" alt="Games"></a>
